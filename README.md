@@ -1,1 +1,2 @@
-# Trabajo-07-ElectronJS
+# Screenshot
+![](docs/screenshot.png)
